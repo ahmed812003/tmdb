@@ -1,0 +1,9 @@
+{
+  "ApiKey": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhM2ZlZjM4Nzk2ZjU0MTcwZGI3NGZlZTM4MWI4Y2QwZCIsIm5iZiI6MTc1MTAyOTMwNy42MjIwMDAyLCJzdWIiOiI2ODVlOTYzYjBkZGE5YTEyZGY5MTUyNDEiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.iSZ215pN2To4_Mt470y3x54-BtvKIdv4tGeBErtel0s",
+  "Urls": {
+    "NowPlaying": "https://api.themoviedb.org/3/movie/now_playing",
+    "Popular": "https://api.themoviedb.org/3/movie/popular",
+    "TopRated": "https://api.themoviedb.org/3/movie/top_rated",
+    "UpComming": "https://api.themoviedb.org/3/movie/upcoming"
+  }
+}
